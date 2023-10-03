@@ -10,5 +10,4 @@ The detail is provided in the notebook, please change the path of power_data.csv
 The notebook provide data visualization and model building pipeline with a baseline regression model and CatBoost model
 
 ## Final model
-The script of final model is saved in [model.py](./model.py)  
-It is built with CatBoost regression
+The script of final model is saved in [model.py](./model.py)
