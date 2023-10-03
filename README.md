@@ -6,8 +6,8 @@ There are two columns in the [power_data.csv](./power_data.csv): timestamp and h
 The goal of the model is to predict the pattern of power consumption, e.g. weekly, monthly, and seasonal patterns.
 
 ## Data analysis and visualization
-The detail is provided in the notebook, please change the path of power_data.csv  
-The notebook provide data visualization and model building pipeline with a baseline regression model and CatBoost model
+The data analysis, model comparison and selection, model building and evaluation, conclusion and recommendation are provided in the [notebook](./data_analysis_visualization.ipynb)
 
 ## Final model
-The script of final model is saved in [model.py](./model.py)
+The script of final model is saved in [model.py](./model.py)  
+R-squared score is used to evaluate our regression models.
